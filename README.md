@@ -13,3 +13,7 @@ Demo for RN Paper web player using CRA
 ```
 yarn web
 ```
+  
+## Docs  
+https://callstack.github.io/react-native-paper/using-on-the-web.html  
+https://github.com/FormidableLabs/react-live
